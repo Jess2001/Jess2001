@@ -8,6 +8,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jess2001&theme=dark)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jess2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 - 📫 How to reach me:jecintawangui2001@gmail.com
 
