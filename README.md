@@ -1,11 +1,12 @@
 ### Hi there my name is JESS 👋
 
 
-[![Jecinta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jess2001&show_icons=true&theme=tokyonight)](https://github.com/Jess2001/github-readme-stats)
+[![Jess Wangui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jess2001&show_icons=true&theme=tokyonight)](https://github.com/Jess2001/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jess2001&layout=compact)](https://github.com/Jess2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jess2001&show_icons=true&theme=tokyonight))](https://github.com/Jess2001/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jess2001&theme=dark)](https://git.io/streak-stats)
 
 
 - 📫 How to reach me:jecintawangui2001@gmail.com
