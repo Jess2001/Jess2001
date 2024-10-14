@@ -4,12 +4,12 @@
 [![Jecinta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jess2001&show_icons=true&theme=radical)](https://github.com/Jess2001/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jess2001&layout=compact)](https://github.com/Jess2001/github-readme-stats)
 
 
 
 - 📫 How to reach me:jecintawangui2001@gmail.com
 
-- ⚡Here's a fun coding fact: The term "spam" for unsolicited emails comes from a Monty Python sketch where a group of Vikings repeatedly chants "Spam" to drown out other conversation. This sketch inspired the use of the term in early internet culture to describe the overwhelming flood of unwanted messages, similar to the way the Vikings drowned out other conversations in the sketch.
 
 
 <!--
